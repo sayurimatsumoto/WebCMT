@@ -1,0 +1,21 @@
+.mynav{
+    background-color: #e53935;
+    color: white;
+    text-decoration: none;
+    padding: 0;
+}
+.mynav a{ 
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+}
+.active{
+    background-color: #ab000d;
+}
+.nav-item{
+    padding: 8px;
+}
+.nav-item:hover {
+    opacity: 0.7;
+    background-color: #ff6f60;
+}
