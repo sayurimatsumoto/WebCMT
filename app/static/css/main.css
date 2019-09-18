@@ -10,7 +10,7 @@
     padding: 8px;
 }
 .active{
-    background-color: #ab000d;
+    text-decoration: underline 
 }
 .nav-item{
     padding: 8px;
